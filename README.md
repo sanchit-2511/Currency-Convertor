@@ -38,8 +38,9 @@ This project helped me understand basic Python concepts like file handling, dict
 
 1. Make sure both files are in the same folder:
    - `Currency converter.py`
+   - `CurrencyData.txt`
 
-2. Run:
+2. Run the Python script:
 python "Currency converter.py"
 
 
@@ -79,6 +80,4 @@ This project is part of my **learning journey** and represents my early practice
 ## 🙌 Author
 
 **Sanchit G. Barne**
-   - `CurrencyData.txt`
 
-2. Run the Python script:
