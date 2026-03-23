@@ -51,9 +51,11 @@ python "Currency converter.py"
 
 ## 📸 Output Preview
 
-![Output](https://github.com/sanchit-2511/Currency-Convertor/blob/f5679c2d0a966c2fbacf47997bd96c3f1022e6ee/Output/Screenshot%20(104).png)
+![Output1](https://github.com/sanchit-2511/Currency-Convertor/blob/f5679c2d0a966c2fbacf47997bd96c3f1022e6ee/Output/Screenshot%20(104).png)
+
 
 ![Output2](https://github.com/sanchit-2511/Currency-Convertor/blob/f5679c2d0a966c2fbacf47997bd96c3f1022e6ee/Output/Screenshot%20(105).png)
+
 
 ![Output3](https://github.com/sanchit-2511/Currency-Convertor/blob/f5679c2d0a966c2fbacf47997bd96c3f1022e6ee/Output/Screenshot%20(106).png)
 
